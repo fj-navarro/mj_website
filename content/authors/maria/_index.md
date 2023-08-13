@@ -25,27 +25,15 @@ organizations:
   url: https://www.stanford.edu/
 role: Professor of Artificial Intelligence
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
+- icon: instagram
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://instagram.com/mariaygranada
 - icon: youtube
   icon_pack: fab
   link: https://youtube.com/@mariaballesteros_es
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+- icon: envelope
+  icon_pack: fas
+  link: /#contact
 status:
   icon: ☕️
 superuser: true

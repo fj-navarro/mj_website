@@ -38,7 +38,7 @@ sections:
 - block: about.biography
   content:
     title: Biography
-    username: admin
+    username: maria
   id: about
 - block: features
   content:

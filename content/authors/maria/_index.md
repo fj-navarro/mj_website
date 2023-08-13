@@ -37,9 +37,9 @@ social:
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+- icon: youtube
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://youtube.com/@mariaballesteros_es
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/

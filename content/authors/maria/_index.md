@@ -13,13 +13,13 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
-first_name: María Ballesteros
+first_name: María
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Wu
+last_name: Ballesteros
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
@@ -49,7 +49,7 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: María Ballesteros
 ---
 
 Soy María Ballesteros is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

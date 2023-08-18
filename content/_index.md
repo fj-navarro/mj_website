@@ -5,7 +5,7 @@ sections:
   content:
     cta:
       label: '**Descargar e-Book GRATIS**'
-      url: https://mariaballesteros.netlify.app/pdfs
+      url: https://mariaballesteros.netlify.app/pdfs/5_consejos_saludables.pdf
     #cta_alt:
       #label: Ask a question
       #url: https://discord.gg/z8wNYzb

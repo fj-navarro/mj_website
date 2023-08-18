@@ -4,7 +4,7 @@ sections:
 - block: hero
   content:
     cta:
-      label: '**Descargar e-Book GRATIS**'
+      label: '**Descarga e-Book GRATIS**'
       url: https://mariaballesteros.netlify.app/pdfs/5_consejos_saludables.pdf
     #cta_alt:
       #label: Ask a question
@@ -19,7 +19,7 @@ sections:
     image:
       filename: 5_consejos_portada.png
     text:
-      ¿Siempre a dieta? ¿Te gustaría cambiar tu historia para mantenerte en tu peso y disfrutar de tus comidas de siempre? Descubre las claves para evitar los errores que no te dejan lograrlo y tomar el control
+     ¿Siempre a dieta? ¿Te gustaría cambiar tu historia para mantenerte en tu peso y disfrutar de tus comidas de siempre? Descubre las claves para evitar los errores y tomar el control
 
       <!--Custom spacing-->
       <div class="mb-3"></div>

@@ -1,18 +1,12 @@
 ---
 authors:
-- admin
-- 吳恩達
+- maria
 categories:
 - Demo
 - 教程
 date: "2020-12-13T00:00:00Z"
 draft: false
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
-  placement: 2
-  preview_only: false
 lastmod: "2020-12-13T00:00:00Z"
 projects: []
 subtitle: "Welcome \U0001F44B We know that first impressions are important, so we've
@@ -24,8 +18,15 @@ summary: "Welcome \U0001F44B We know that first impressions are important, so we
 tags:
 - Academic
 - 开源
-title: Welcome to Wowchemy, the website builder for Hugo
+title: Cordero con salsa de granada y vino tinto
 ---
+
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/rgyWw6MVa6A?feature=share"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
 
 ```python
 import libr

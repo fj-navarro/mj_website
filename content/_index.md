@@ -17,7 +17,7 @@ sections:
         #data-size="large" data-show-count="true" aria-label="Star">Star the Academic
         #template</a></div>'
     image:
-      filename: 5_consejos_portada.png
+      filename: 5_consejos_portada_verdeclaro.png
     text:
      ¿Siempre a dieta? ¿Te gustaría cambiar tu historia para mantenerte en tu peso y disfrutar de tus comidas de siempre? Descubre las claves para evitar los errores y tomar el control
 
@@ -28,7 +28,7 @@ sections:
     title: 5 Consejos Saludables para Mantenerte en tu Peso
   design:
     background:
-      gradient_end: '#95D904'
+      gradient_end: '#00B232'
       gradient_start: '#00B232'
       text_color_light: true
 - block: about.biography

@@ -21,9 +21,9 @@ interests:
 - Information Retrieval
 last_name: Ballesteros
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+#- name: Stanford University
+#  url: https://www.stanford.edu/
+role: Mentora, Profesional y Madre de Familia
 social:
 - icon: instagram
   icon_pack: fab

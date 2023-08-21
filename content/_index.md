@@ -157,7 +157,7 @@ sections:
   content:
     subtitle: ""
     text: '{{< gallery album="demo" >}}'
-    title: Gallery
+    title: Galería
   design:
     columns: "1"
 - block: collection
@@ -219,43 +219,54 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
-      country: United States
-      country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
-    appointment_url: https://calendly.com
-    autolink: true
+      city: Torrejón de Ardoz
+      country: España
+      country_code: ES
+      postcode: "28850"
+      region: Madrid
+      #street: 450 Serra Mall
+    #appointment_url: https://calendly.com
+    #autolink: true
     contact_links:
-    - icon: twitter
+    - icon: instagram
       icon_pack: fab
-      link: https://twitter.com/Twitter
-      name: DM Me
-    - icon: skype
+      link: https://instagram.com/mariaygranada
+      name: Instagram  
+    - icon: youtube
       icon_pack: fab
-      link: skype:echo123?call
-      name: Skype Me
-    - icon: video
+      link: https://youtube.com/@mariaballesteros_es
+      name: Youtube
+    - icon: envelope
       icon_pack: fas
-      link: https://zoom.com
-      name: Zoom Me
-    directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+      link: "mailto:info@mariaballesteros.es" 
+      name: E-mail
+    #- icon: twitter
+      #icon_pack: fab
+      #link: https://twitter.com/Twitter
+      #name: DM Me
+    #- icon: skype
+      #icon_pack: fab
+      #link: skype:echo123?call
+      #name: Skype Me
+    #- icon: video
+      #icon_pack: fas
+      #link: https://zoom.com
+      #name: Zoom Me
+    #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    #email: info@mariaballesteros.es
     form:
-      formspree:
-        id: null
+      #formspree:
+        #id: null
       netlify:
         captcha: false
       provider: netlify
-    office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
-    subtitle: null
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
-      ut magna et, vehicula efficitur enim.
-    title: Contact
+    #office_hours:
+    #- Monday 10:00 to 13:00
+    #- Wednesday 09:00 to 10:00
+    #phone: 888 888 88 88
+    #subtitle: null
+    text: Si quieres ponerte en contacto conmigo puedes rellenar este formulario o escribirme directamente un correo. Me pondré en contacto contigo lo antes posible. 
+    title: Contacto
   design:
     columns: "2"
   id: contact

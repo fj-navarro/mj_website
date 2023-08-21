@@ -5,9 +5,15 @@
 .btn-light
 {
   background-color: #D90404;
-  border-color: none;
+  border: none !important;
 }
 
 .fa, .fa-brands, .fa-classic, .fa-regular, .fa-sharp, .fa-solid, .fab, .far, .fas {
   color: #00B232;
+}
+
+.btn-primary
+{
+  background-color: #D90404;
+  border: none !important;
 }

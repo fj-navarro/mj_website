@@ -9670,13 +9670,23 @@ div.chart {
 .wg-hero.dark .btn {
   color: #FFFF; }
 
+/* Botón del banner */
 .btn-light {
   background-color: #D90404;
-  border: none !important; }
+  border: none; }
 
+.btn-light:hover {
+  background-color: #F26B6B; }
+
+/* Iconos de redes sociales en banner */
 .fa, .fa-brands, .fa-classic, .fa-regular, .fa-sharp, .fa-solid, .fab, .far, .fas {
   color: #00B232; }
 
+/* Botón enviar en formulario */
 .btn-primary {
   background-color: #D90404;
+  border: none !important; }
+
+.btn-primary:hover {
+  background-color: #F26B6B;
   border: none !important; }

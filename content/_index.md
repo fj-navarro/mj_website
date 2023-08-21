@@ -156,7 +156,7 @@ sections:
 - block: markdown
   content:
     subtitle: ""
-    text: '{{< gallery album="demo" >}}'
+    text: '{{< gallery album="recetas" >}}'
     title: Galería
   design:
     columns: "1"
@@ -200,7 +200,7 @@ sections:
     title: Popular Topics
   design:
     columns: "2"
-- block: features
+#- block: features
   content:
     items:
     - description: "Me encanta este sitio porque ofrece consejos vitales de primera calidad"
@@ -218,12 +218,12 @@ sections:
     title: Testimonios
 - block: contact
   content:
-    address:
-      city: Torrejón de Ardoz
-      country: España
-      country_code: ES
-      postcode: "28850"
-      region: Madrid
+    #address:
+      #city: Torrejón de Ardoz
+      #country: España
+      #country_code: ES
+      #postcode: "28850"
+      #region: Madrid
       #street: 450 Serra Mall
     #appointment_url: https://calendly.com
     #autolink: true
@@ -265,7 +265,7 @@ sections:
     #- Wednesday 09:00 to 10:00
     #phone: 888 888 88 88
     #subtitle: null
-    text: Si quieres ponerte en contacto conmigo puedes rellenar este formulario o escribirme directamente un correo. Me pondré en contacto contigo lo antes posible. 
+    text: Si quieres ponerte en contacto conmigo puedes rellenar este formulario o escribirme directamente un correo. Te contactaré lo antes posible. 
     title: Contacto
   design:
     columns: "2"
